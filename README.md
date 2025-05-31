@@ -61,18 +61,6 @@ Response:
   }
 }
 
-# Folder Structure.
-├── prisma/
-│   └── schema.prisma
-├── src/
-│   ├── routes/
-│   │   └── identify.ts
-│   ├── utils/
-│   │   └── contactHelper.ts
-│   └── index.ts
-├── package.json
-├── tsconfig.json
-└── README.md
 
 Scripts
 npx prisma studio — View and manage your database in a web UI
